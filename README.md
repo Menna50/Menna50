@@ -10,6 +10,8 @@
 ### 🌟 About Me
 - 🔭 Currently working on: [SchoolManagement](https://github.com/Menna50/SchoolManagement)  
 - 🌱 Learning: **Angular** to become a full-stack engineer  
+- 🧠 **Continuous Learner** – I dedicate time every single day to study, practice, and improve my skills  
+- 💡 Passionate about **problem-solving** and always eager to tackle challenging coding problems  
 - 💬 Ask me about: **.NET Core, SQL, Backend Development**  
 
 ---
@@ -47,5 +49,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=menna50&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=menna50&theme=tokyonight" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menna50&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+---
+
+### ✍️ Quote I Live By
+<p align="center">
+  <em>"Great things are not done by impulse, but by a series of small things brought together."<br>
+  ― Vincent Van Gogh</em>  
+  <br>  
+  <strong>Practice makes perfect 💡</strong>
 </p>
