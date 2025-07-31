@@ -40,7 +40,6 @@
   <!-- Languages -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 
   <!-- Frameworks -->
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -51,10 +50,7 @@
   <!-- Databases -->
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   
-  <!-- Tools / Skills -->
-  <img src="https://img.shields.io/badge/Data_Structures-2E8B57?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Algorithms-191970?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem_Solving-FF8C00?style=for-the-badge&logoColor=white" />
+
 </p>
 
 
