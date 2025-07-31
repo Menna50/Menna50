@@ -37,22 +37,29 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ADO.NET-800000?style=for-the-badge&logo=dotnet&logoColor=white" />
+  
+  <!-- Databases -->
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  
+  <!-- Tools / Skills -->
+  <img src="https://img.shields.io/badge/Data_Structures-2E8B57?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Algorithms-191970?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem_Solving-FF8C00?style=for-the-badge&logoColor=white" />
 </p>
+
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=menna50&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=menna50&theme=tokyonight" alt="GitHub streak" />
-</p>
-
----
 
 ### ✍️ Quote I Live By
 <p align="center">
