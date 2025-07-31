@@ -11,6 +11,7 @@
 - 🔭 Currently working on: [SchoolManagement](https://github.com/Menna50/SchoolManagement)  
 - 🌱 Learning: **Angular** to become a full-stack engineer  
 - 🧠 **Continuous Learner** – I dedicate time every single day to study, practice, and improve my skills  
+- 💻 Currently **sharpening my Backend expertise** and **growing Frontend skills** to achieve a balanced Full Stack development journey  
 - 💡 Passionate about **problem-solving** and always eager to tackle challenging coding problems  
 - 💬 Ask me about: **.NET Core, SQL, Backend Development**  
 
