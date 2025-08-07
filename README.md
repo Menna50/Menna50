@@ -17,7 +17,7 @@
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 Socials
 <p align="center">
   <a href="https://linkedin.com/in/mennatallah-mahrous-076a69325" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
